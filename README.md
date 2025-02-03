@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos que refl
 Aqui estão algumas tecnologias que utilizo:
 
 - **Frontend**: [ex.: HTML, CSS, JavaScript, etc.]  
-- **Backend**: [ex.: Node.js, Express, Python, etc.]  
+- **Backend**: [ex.: Node.js, Python, etc.]  
 - **Banco de Dados**: [ex.: MySQL, MongoDB, etc.]  
 - **Outras Ferramentas**: [ex.: Git, Power BI, etc.]  
 
@@ -31,7 +31,7 @@ Aqui estão alguns projetos que tenho orgulho de compartilhar:
 1. **[Python 🐍](https://github.com/mateus-henriquee/python)**: Meu Repositório Focado Especificadamente Em Projetos Python Desenvolvidos Por Mim
 
 Sinta-se à vontade para explorar os repositórios e deixar seu feedback! 😊  
-
+Não se esqueça de deixar sua estrela ! 🌟 
 ---
 
 ## 🌐 Entre em contato
