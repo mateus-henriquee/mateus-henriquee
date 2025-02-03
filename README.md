@@ -30,7 +30,8 @@ Aqui estão alguns projetos que tenho orgulho de compartilhar:
 
 1. **[Python 🐍](https://github.com/mateus-henriquee/python)**: Meu Repositório Focado Especificadamente Em Projetos Python Desenvolvidos Por Mim
 
-Sinta-se à vontade para explorar os repositórios e deixar seu feedback! 😊 
+Sinta-se à vontade para explorar os repositórios e deixar seu feedback! 😊
+
 Não se esqueça de deixar sua estrela ! 🌟 
  
 ---
