@@ -74,6 +74,12 @@ Não se esqueça de deixar sua estrela ! 🌟
 
 ---
 
+<div>
+ ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/31f9ca4e8d80a7525bca7b644fc80c8888e7abf7/github-contribution-grid-snake.svg)
+</div>
+
+---
+
 ⭐ **Se você gostou dos meus projetos, não esqueça de dar uma estrela!**  
 
 Obrigado por visitar meu perfil! 😊  
