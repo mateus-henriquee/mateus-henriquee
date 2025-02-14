@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos que refl
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## 🛠 Tecnologias e Ferramentas  
 
 Aqui estão algumas tecnologias que utilizo:
 
