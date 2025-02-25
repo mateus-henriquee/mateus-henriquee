@@ -39,7 +39,7 @@ Não se esqueça de deixar sua estrela ! 🌟
 ## 🌐 Entre em contato
 
 - 📧 E-mail: **[mateush.leccese@gmail.com]**  
-- 💼 LinkedIn: [Mateus Henrique (Meu LinkedIn)](https://www.linkedin.com/in/devmateus-henriquee/) 
+- 💼 LinkedIn: [Mateus Henrique Leccese Da Silva (Meu LinkedIn)](https://www.linkedin.com/in/devmateus-henriquee/) 
 - 🌟 Vamos colaborar? Estou sempre aberto a novas ideias e projetos.
 
 ###
